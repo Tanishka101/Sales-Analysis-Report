@@ -1,2 +1,2 @@
-# Sales-Analysis-Report
-This Power BI Sales Analysis report is designed with UI/UX.
+## Sales-Analysis-Report
+This Power BI Sales Analysis report is designed with UI/UX best practices to ensure clarity and ease of use. It presents key sales metrics including units sold, net sales, cost of goods sold (COGS), and net profit. The interactive dashboard allows users to quickly analyze performance trends and gain actionable insights through well-structured visuals and intuitive navigation.
